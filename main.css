@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: whitesmoke;
+  }
+  
+  .operation-container {
+    background-color: #3B71CA;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+  }
+  
+  
+  .bank {
+    margin-top: -100px;
+  }
