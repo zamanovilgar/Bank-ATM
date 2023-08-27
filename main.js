@@ -14,10 +14,9 @@ const inputContent = document.querySelector("#inputContent");
 
 const bankObj = {
   balance: 0,
-  userInfo: [],
+  // userInfo: [],
   add: function () {
     const value = amountInput.value;
-    // console.log(value);
     if ((value == "") || (value < 0)) {
       alert("Please, Enter amount true!");
       return;
